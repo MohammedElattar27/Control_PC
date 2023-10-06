@@ -66,7 +66,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Setup Client
 
-1. Download [Tcp Udp Server & Client]([url](https://play.google.com/store/apps/details?id=tcpudpserverclient.steffenrvs.tcpudpserverclient&pcampaignid=web_share)https://play.google.com/store/apps/details?id=tcpudpserverclient.steffenrvs.tcpudpserverclient&pcampaignid=web_share)
+1. Download [Tcp Udp Server & Client]([url](https://play.google.com/store/apps/details?id=tcpudpserverclient.steffenrvs.tcpudpserverclient&pcampaignid=web_share))
 2. follow these steps:
 
 ![client](https://github.com/MohammedElattar27/Control_PC/assets/141765152/b790a4eb-28f7-45dd-af79-df625778b923)
